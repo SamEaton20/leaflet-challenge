@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.info {
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  font-size: 14px; /* Adjust font size as needed */
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  float: left;
+}
